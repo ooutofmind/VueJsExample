@@ -1,0 +1,23 @@
+{
+  "name": "vuejsexample",
+  "version": "1.0.0",
+  "description": "it's a hello world application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ooutofmind/VueJsExample.git"
+  },
+  "author": "Vladimir Parfenov <wofffk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ooutofmind/VueJsExample/issues"
+  },
+  "homepage": "https://github.com/ooutofmind/VueJsExample#readme",
+  "devDependencies": {
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.6"
+  }
+}
